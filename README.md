@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brickandmortar
+- 👋 Hi, I’m @alexthims
 - 👀 I’m interested in web3, physical architecture, and affordable housing.
 - 🌱 I’m currently learning python and how to participate in a DAO.
 - 💞️ I’m looking to collaborate on anything related to affordable housing.
